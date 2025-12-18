@@ -14,4 +14,4 @@
 # 03 视觉小说DEMO:《UNEARTHED》
 RPG视觉小说。由于一个梦境，四个朋友被困考古工地，并百般尝试回到现实。围绕个人信息编写，所以只有录屏和逻辑图。
 ## 03.01 [逻辑流程图](https://dinlinuncode.github.io/DinlinGameWriting/03-视觉小说DEMO：《UNEARTHED》/unearthed_逻辑流程图.pdf)
-## 03.02 [部分流程演示](https://dinlinuncode.github.io/DinlinGameWriting/03-视觉小说DEMO：《UNEARTHED》/unearthed_部分流程演示.mp4)
+## 03.02 [部分流程演示](https://dinlinuncode.github.io/DinlinGameWriting/03-视觉小说DEMO：《UNEARTHED》/unearthed_部分流程录屏.mp4)
