@@ -1,4 +1,4 @@
-# DINLIN游戏文案作品集
+# DINLIN作品集
 # 01 视觉小说DEMO:《UNEARTHED》
 RPG视觉小说。由于一个梦境，四个朋友被困考古工地，并百般尝试回到现实。
 ## 01.01 [叙事分支流程图](https://dinlinuncode.github.io/DinlinGameWriting/01-视觉小说DEMO：《UNEARTHED》/unearthed分支叙事流程图.pdf)
